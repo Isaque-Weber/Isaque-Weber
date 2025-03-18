@@ -12,11 +12,11 @@ Me chamo Isaque Weber de Souza Oliveira, tenho 29 anos e sou natural do Rio de J
             src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/isaqueweber?tab=repositories&sort=stargazers">
+   <a href="https://www.isaqueweber.com.br">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/isaqueweber?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Meu Site" 
+            title="Visite meu portfólio" 
+            src="https://custom-icon-badges.demolab.com/badge/-Meu%20Portfólio-000?style=for-the-badge&logo=web&logoColor=white"
         />
     </a>
     <a href="https://github.com/isaqueweber?tab=repositories">
