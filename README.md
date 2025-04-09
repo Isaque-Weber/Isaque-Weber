@@ -1,15 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3B0D3AE9&width=460&height=65&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++++Isaque+Weber;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Desenvolvedor+FullStack)](https://git.io/typing-svg)
 
 Me chamo Isaque Weber de Souza Oliveira, tenho 29 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no CE Erich Walter Heine, com o curso técnico em administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniAmérica. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos e desafios na área de desenvolvimento de software. Tenho experiência com diversas linguagens e tecnologias, como HTML, CSS, JavaScript, TypeScript, Angular, Node.js, SASS, Python, github, JQuery, Laravel, Git e Docker. Estou sempre disposto a aprender e colaborar em projetos inovadores.
-  <p align="right">
-    <a href="https://wa.me/5521967398707">
-      <img 
-        alt="Contato" 
-        title="Meu telefone para contato" 
-        src="https://custom-icon-badges.demolab.com/badge/-Fale%20comigo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-      />
-    </a>
-  </p>
+  
 <p align="left">
     <a href="https://www.linkedin.com/in/isaqueweber/">
         <img 
@@ -31,6 +23,13 @@ Me chamo Isaque Weber de Souza Oliveira, tenho 29 anos e sou natural do Rio de J
             title="Meus projetos no GitHub" 
             src="https://custom-icon-badges.demolab.com/badge/-Projetos-000?style=for-the-badge&logo=github&logoColor=white"
         />
+    </a>
+    <a href="https://wa.me/5521967398707">
+      <img 
+        alt="Contato" 
+        title="Meu telefone para contato" 
+        src="https://custom-icon-badges.demolab.com/badge/-Fale%20comigo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      />
     </a>
 </p>
 
