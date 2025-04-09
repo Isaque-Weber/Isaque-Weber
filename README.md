@@ -2,7 +2,7 @@
 
 Me chamo Isaque Weber de Souza Oliveira, tenho 29 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no CE Erich Walter Heine, com o curso técnico em administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniAmérica. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos e desafios na área de desenvolvimento de software. Tenho experiência com diversas linguagens e tecnologias, como HTML, CSS, JavaScript, TypeScript, Angular, Node.js, SASS, Python, github, JQuery, Laravel, Git e Docker. Estou sempre disposto a aprender e colaborar em projetos inovadores.
   <p align="right">
-    <a href="https://www.wa.me/+5521967398707">
+    <a href="https://www.wa.me/5521967398707">
       <img 
         alt="Contato" 
         title="Meu telefone para contato" 
