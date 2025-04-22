@@ -177,20 +177,13 @@ Me chamo Isaque Weber de Souza Oliveira, tenho 29 anos e sou natural do Rio de J
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Isaque-Weber&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isaque-Weber&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Weber&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150"/>
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Weber&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
+<p align="center">
+    <img src="https://media1.tenor.com/m/LQ_hjkLNJDkAAAAd/hacker-matrix.gif" width="1000" height="300">
 </p>
