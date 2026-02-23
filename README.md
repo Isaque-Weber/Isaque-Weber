@@ -67,13 +67,8 @@ Tenho experiência prática integrando agentes com **WhatsApp**, Webhooks e APIs
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img alt="FastAPI" title="FastAPI" width="30px" style="padding-right:10px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
-  <img  
-    alt="OpenAI"  
-    title="OpenAI API"  
-    width="30px"
-    style="padding:4px;border-radius:8px;background:#000; margin-right:10px; color:white;"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg"
-  />
+  <img alt="OpenAI" title="OpenAI API" width="30px" style="padding:4px;border-radius:8px;background:#000; margin-right:10px; color:white;"
+       src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg"/>
   <img alt="LangChain" title="LangChain" width="30px" style="padding:2px;border-radius:6px;background:#1C3C3C; margin-right:10px"
        src="https://cdn.simpleicons.org/langchain/ffffff"/>
   <img alt="Node.js" title="Node.js" width="30px" style="padding-right:10px"
