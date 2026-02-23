@@ -1,6 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3B0D3AE9&width=460&height=65&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++++Isaque+Weber;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Desenvolvedor+FullStack)](https://isaqueweber.com.br)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=3B0D3AE9&width=460&height=65&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++++Isaque+Weber;%F0%9F%A4%96+AI+Engineer;%F0%9F%94%97+Backend+%26+LLM+Engineer)](https://isaqueweber.com.br)
 
-Sou **Isaque Weber**, desenvolvedor **Full Stack**. Apaixonado por resolver problemas reais com código, atuo do front ao back com foco em **performance**, **boa arquitetura** e **entrega contínua**. Hoje curso **Análise e Desenvolvimento de Sistemas (UniAmérica)** e colaboro em projetos web modernos usando **React/Next.js** no front e **Node.js/TypeScript** no back, com **TypeORM** e bancos relacionais.
+Sou **Isaque Weber**, AI Engineer focado na construção de **agentes conversacionais baseados em LLMs**.
+
+Atuo no desenvolvimento de **APIs REST**, integrações com **OpenAI API** e **LangChain**, implementação de arquiteturas **RAG (Retrieval-Augmented Generation)** com embeddings e bancos vetoriais, além da orquestração de fluxos conversacionais escaláveis.
+
+Tenho experiência prática integrando agentes com **WhatsApp**, Webhooks e APIs externas, estruturando backends modulares capazes de servir como *tools* reutilizáveis para agentes de IA em diferentes plataformas.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/isaqueweber/">
@@ -23,41 +27,76 @@ Sou **Isaque Weber**, desenvolvedor **Full Stack**. Apaixonado por resolver prob
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧠 Foco Atual: AI Agents & LLM Engineering
+
+- 🤖 Construção de agentes com **OpenAI API**
+- 🔗 Orquestração com **LangChain**
+- 🔍 Arquiteturas **RAG** com embeddings e bancos vetoriais
+- 🧩 APIs REST como *tools* para agentes
+- 🌐 Integrações com **WhatsApp**, Webhooks e serviços externos
+- 🚀 Backend escalável para agentes **multi-plataforma**
+
+---
+
+### 🚀 Projetos Relevantes
+
+#### 🤖 Agente Conversacional com OpenAI + LangChain
+- Arquitetura baseada em LLM com estruturação de contexto e memória
+- Integração com **WhatsApp** via Webhooks
+- APIs REST externas como *tools* para o agente
+- Backend modular desacoplado para expansão futura
+
+#### 🔍 Pipeline RAG
+- Geração e uso de **embeddings**
+- **Banco de dados vetorial** para recuperação semântica
+- API estruturada para servir contexto ao agente
+- Separação clara entre camada de dados e camada de IA
+
+#### 🧩 Backend para Integrações
+- APIs REST em **TypeScript (Fastify)**
+- Serviços estruturados para manutenibilidade
+- Integração com sistemas externos
+- Arquitetura orientada a serviços desacoplados
+
+---
+
+### 🛠️ Linguagens e Tecnologias
 
 <p align="left">
+  <img alt="Python" title="Python" width="30px" style="padding-right:10px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="FastAPI" title="FastAPI" width="30px" style="padding-right:10px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
+  <img alt="OpenAI" title="OpenAI API" width="30px" style="padding:2px;border-radius:6px;background:#000; margin-right:10px"
+       src="https://cdn.simpleicons.org/openai/ffffff"/>
+  <img alt="LangChain" title="LangChain" width="30px" style="padding:2px;border-radius:6px;background:#1C3C3C; margin-right:10px"
+       src="https://cdn.simpleicons.org/langchain/ffffff"/>
+  <img alt="Node.js" title="Node.js" width="30px" style="padding-right:10px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="React" title="React" width="30px" style="padding-right:10px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img alt="Next.js" title="Next.js" width="30px" style="padding:2px;border-radius:6px;background:#fff; margin-right:10px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
   <img alt="HTML5" title="HTML5" width="30px" style="padding-right:10px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img alt="CSS3" title="CSS3" width="30px" style="padding-right:10px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img alt="React" title="React" width="30px" style="padding-right:10px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img alt="Next.js" title="Next.js (fundo claro p/ contraste)" width="30px" style="padding:2px;border-radius:6px;background:#fff; margin-right:10px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-  <img alt="Angular" title="Angular" width="30px" style="padding-right:10px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
-  <img alt="Node.js" title="Node.js" width="30px" style="padding-right:10px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img alt="TypeORM" title="TypeORM" width="30px" style="padding-right:10px"
-       src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png"/>
-  <img alt="Sass" title="Sass" width="30px" style="padding-right:10px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
-  <img alt="Python" title="Python" width="30px" style="padding-right:10px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="Laravel" title="Laravel" width="30px" style="padding-right:10px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
   <img alt="SQL/MySQL" title="SQL/MySQL" width="30px" style="padding-right:10px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="Docker" title="Docker" width="30px" style="padding-right:10px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
   <img alt="Git" title="Git" width="30px" style="padding-right:10px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img alt="GitHub" title="GitHub" width="30px" style="padding:2px;border-radius:6px;background:#fff; margin-right:10px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  <img alt="Docker" title="Docker" width="30px" style="padding-right:10px"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="Laravel" title="Laravel" width="30px" style="padding-right:10px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+  <img alt="Sass" title="Sass" width="30px" style="padding-right:10px"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
 </p>
 
 <br/>
@@ -82,4 +121,8 @@ Sou **Isaque Weber**, desenvolvedor **Full Stack**. Apaixonado por resolver prob
 
 <p align="center">
   <img src="https://media1.tenor.com/m/LQ_hjkLNJDkAAAAd/hacker-matrix.gif" width="1000" height="300" alt="Matrix hacker gif">
+</p>
+
+<p align="center">
+  <i>💡 Engenharia de IA não é só usar LLM. É estruturar contexto, arquitetura e integrações para escalar inteligência.</i>
 </p>
