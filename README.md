@@ -67,8 +67,13 @@ Tenho experiência prática integrando agentes com **WhatsApp**, Webhooks e APIs
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img alt="FastAPI" title="FastAPI" width="30px" style="padding-right:10px"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
-  <img alt="OpenAI" title="OpenAI API" width="30px" style="padding:2px;border-radius:6px;background:#000; margin-right:10px"
-       src="https://cdn.simpleicons.org/openai/ffffff"/>
+  <img  
+    alt="OpenAI"  
+    title="OpenAI API"  
+    width="30px"
+    style="padding:4px;border-radius:8px;background:#000; margin-right:10px; color:white;"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg"
+  />
   <img alt="LangChain" title="LangChain" width="30px" style="padding:2px;border-radius:6px;background:#1C3C3C; margin-right:10px"
        src="https://cdn.simpleicons.org/langchain/ffffff"/>
   <img alt="Node.js" title="Node.js" width="30px" style="padding-right:10px"
@@ -109,13 +114,6 @@ Tenho experiência prática integrando agentes com **WhatsApp**, Webhooks e APIs
   <img alt="github contribution grid snake animation"
        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isaque-Weber&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-Weber&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150" />
-</div>
 
 ---
 
